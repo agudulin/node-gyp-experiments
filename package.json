@@ -1,5 +1,6 @@
 {
-  "name": "ntv",
+  "private": true,
+  "name": "nody-gyp-experiments",
   "version": "0.0.0",
   "main": "index.js",
   "repository": {},

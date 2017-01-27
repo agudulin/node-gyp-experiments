@@ -1,3 +1,3 @@
-const test = require('./build/Release/test')
+const { getName } = require('./build/Release/test')
 
-console.warn(test.hello())
+console.log(`${getName()}🕶${getName('aye')}`)
