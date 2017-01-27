@@ -1,0 +1,12 @@
+{
+  "name": "ntv",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Alexander Gudulin <alexandr.gudulin@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "npm build .",
+    "start": "node ."
+  }
+}
